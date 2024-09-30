@@ -1,0 +1,16 @@
+.x{
+    background-color: "transparent" ;
+    width: "200px" ;
+    height: "46px" ;
+    border: "1px solid rgb(171, 165, 165)" ;
+    color: " white" ;
+}
+.x:hover{
+    background-color: #E93A7D;
+}
+/* .x{
+    color: yellow;
+} */
+ input:focus{
+    background-color:rgb(219, 219, 219) ;
+ }
